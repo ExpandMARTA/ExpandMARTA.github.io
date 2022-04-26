@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: Learn more about the EXPANDMARTA movement!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+The Metropolitan Atlanta Rail and Transit Authority (MARTA) has historically posed socioeconomic and racial barriers to access while simultaneously missing the mark on becoming a convenient substitute for automobile travel, which indirectly has contributed significantly to the amount of carbon dioxide emitted in Atlanta from car use. According to the Atlanta Regional Commission in March 2010, the city’s dramatic population increase of 62% between 1990 and 2005 led to a 60% increase in vehicle miles traveled, and this figure is expected to explode by an additional 54% by 2030 (Olivares, 2010). Additionally, this resulted in greater strain on Atlanta's highways, which has led to “low travel speeds and idling” that have “decreased vehicle efficiency” and led to increased carbon dioxide emissions (Olivares, 2010). The city and MARTA advocates have been singing public transportations praises for decades now, but MARTA has not expanded due to historical misunderstandings in the community of public transit that are rooted in racist ideology. To reduce both the problem of carbon emissions and the barrier to access for minority communities, we propose a two-pronged initiative that aims to educate Atlanta citizens on the benefits of public transit and increase accessibility, reliability, and reach of the MARTA transportation system. We include considerations of environmental equity using recent data and target our deliverables to those who will benefit most from an expansion of the rail-system and bus-system and those who will have the most authority in making final decisions about public transit in Atlanta. Furthermore, we incorporate a wide range of media formats to be inclusive in our approach. Of these, we focus on two maps that promote awareness and ease-of-access of MARTA buses and trains, a podcast that allows the audience to engage in personal stories of public transit issues and successes, and an advertisement campaign to spread awareness of the benefits of MARTA expansions.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
